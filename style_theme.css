@@ -1,0 +1,14 @@
+.dark-mode {
+  --clr-light: #242526;
+  --clr-dark: #f1f5f9;
+}
+
+body {
+  background-color: var(--clr-light);
+  color: var(--clr-dark);
+}
+:root {
+  --clr-dark: #242526;
+  --clr-light: #f1f5f9;
+}
+
